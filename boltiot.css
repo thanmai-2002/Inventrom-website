@@ -1,0 +1,121 @@
+.logo {
+    display: inline-block;
+    margin-left: 18%;
+  }
+  .linking {
+    margin-left: 300px;
+    display: inline-block;
+  }
+  .linking a {
+    padding: 15px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(196, 32, 149);
+    text-decoration: none;
+  }
+  a:hover {
+    color: green;
+  }
+  .body {
+    background-image: url(images/background-layer.png);
+    height: 500px;
+    color: rgb(17, 18, 18);
+    text-align: center;
+    padding-top:18% ;
+    font-size: 40px; 
+  }
+  .body a{
+      font-size: 17px;
+       color:rgb(243, 238, 238);
+       text-decoration: chocolate;
+  }
+  .body a:hover {
+      color: #0a0a0a;
+    }
+  .body2 {
+    text-align: center;
+  }
+  .photo1 {
+    display: inline-block;
+    text-align: left;
+   
+   
+    
+  }
+  .photo2 {
+    display: inline-block;
+    padding-left: 200px;
+    padding-top: 5%;
+    text-align: left;
+    
+  }
+  
+  .body3{
+      text-align: center;
+      background-color: #F5F5F5;
+      height: 500px;
+      
+      }
+      .photos{
+      padding-top: 20px;
+      display: inline-block;
+      text-align: center;
+      font-size:10px ;
+      }
+      #getintouch{
+        background-color: rgb(240, 240, 240);
+        display:flex;
+        justify-content: center;
+        padding:30px;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'nexaFont';
+        font-size:12px;
+        line-height: 25px;
+        overflow-x: hidden;
+    }
+    .contact-title{
+      color:rgb(26, 14, 94);;
+    }
+    .location{
+        color:rgb(99, 99, 99);
+        margin-bottom:20px;
+        width:450px;
+        margin-left:50px;
+        float:right;
+    }
+    .location-title{
+        color:rgb(183, 67, 67);
+        font-weight:600;
+        font-size:15px;
+        margin-bottom:30px;
+    }
+    .hubspot-form{
+        width:450px;
+        float: left;
+    }
+    .location img{
+        height:20px;
+        width:20px;
+        margin-right:10px;
+    }
+    .contactus{
+        display:flex;
+        justify-content:left;
+        align-items:center;
+    }
+    .footer{
+      background-color:rgb(14, 94, 14);
+      color:white;
+      font-size:12px;
+      display:flex;
+      justify-content: space-around;
+      align-items: center;
+      padding:30px;
+  }
+  .footer img{
+      height:20px;
+      width:20px;
+      margin-right:20px;
+  }
+  
